@@ -13,6 +13,7 @@ _ReSharper.*
 *.DotSettings.user
 *.resharper.user
 *.ReSharper.user
+*.userprefs
 
 # ignore NUnit output
 tests/Logos.Utility.VisualState.xml
